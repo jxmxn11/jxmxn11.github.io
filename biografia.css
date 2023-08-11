@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@200&family=Raleway&family=Rubik:wght@300&display=swap');
+body{
+    background-color:rgb(0, 0, 0)
+}
+.background-green {
+    background-color: rgb(0, 0, 0);
+}
+.logo{
+width: 300px; 
+height:auto    ; 
+display: block;    
+}
+.background{
+    background-color: rgb(0, 0, 0);
+}
+.biografia{
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+}
+.caja_uno{
+    background-color: rgb(16, 16, 49);
+    color: rgb(156, 79, 79);
+    justify-content: center ;
+    align-items: center ;
+    padding-top: 50px;
+    display: flex;
+   padding-bottom: 50px;
+   font-family: 'Raleway', sans-serif;
+} 
+p{
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    color:azure !important ;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    display: flex;
+   padding-bottom: 50px;
+   font-family: 'Raleway', sans-serif;
+}
+.img{
+width: 300px;
+height: 300px;
+border-radius: 50%;
+justify-content: center;
+align-items: center;
+}
+.img-2{
+width: 600px;
+height:auto;
+}
+a {
+    text-decoration: none !important;
+    }

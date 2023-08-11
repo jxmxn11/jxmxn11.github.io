@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@200&family=Raleway&family=Rubik:wght@300&display=swap');
+.background-green {
+    background-color: rgb(0, 0, 0);
+}
+.logo{
+width: 300px; 
+height:auto    ; 
+display: block;    
+}
+.background-black{
+    background-color: rgb(0, 0, 0);
+}
+.inicio{
+    color: rgb(224, 224, 224);
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+}
+.caja_uno{
+    background-color: rgb(16, 16, 49);
+    color: rgb(156, 79, 79);
+    justify-content: center ;
+    align-items: center ;
+    padding-top: 50px;
+    display: flex;
+   padding-bottom: 50px;
+   font-family: 'Raleway', sans-serif;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  .informacion {
+    padding: 20px;
+    font-family: 'Raleway', sans-serif;
+  }
+  button {
+    background-color: rgb(255, 2, 2);
+    color: rgb(255, 255, 255);
+    width: 600px;
+    height: 55px;
+    cursor: pointer;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: auto;
+
+    }
+button.btn.btn-primary{
+
+}
+    .inicio{
+        color: rgb(224, 224, 224);
+        justify-content: center;
+        align-items: center;
+        padding-top: 25px;
+        display: flex;
+        font-family: 'Raleway', sans-serif;
+    }
+    .nuevo{
+        color: honeydew;
+   font-size: 50px;
+   font-family: 'Raleway', sans-serif;
+    }
+    .contenedor {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        font-family: 'Raleway', sans-serif;
+      }
+      .noticias {
+        width: 100%;
+        margin: 15px 0;
+        padding: 15px;
+        font-family: 'Raleway', sans-serif;
+      }
+      .noticias h1 {
+        font-size: 50px;
+        color: rgb(2, 5, 165);
+        text-align: center;
+        align-items: center;
+        font-family: 'Raleway', sans-serif;
+      }
+
+        .redes{
+            width: 150px;
+            height: auto;
+            font-family: 'Raleway', sans-serif;
+        }
+  .col-md-4{
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-right: 10%;
+    text-align: center;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+  }
+.noticias p{
+    padding-top: 5%;
+    font-size:xx-large;
+    text-align:left;
+    align-items: left;
+    font-family: 'Raleway', sans-serif;
+}
+a {
+text-decoration: none !important;
+font-size: 50px;
+}
+.noticias h1{
+  text-align:left;
+  align-items: left;
+}
